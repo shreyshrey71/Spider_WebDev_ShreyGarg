@@ -28,13 +28,13 @@ for my 11th and 12th standard.</p>
 <p>My hobbies include<ul>
 <li>Binge Watching TV series</li><br>
 <img src="spiderwebdev/GOT.jpg" style="height:200px">
-<img src="spiderwebdev/spiderwebdev/spiderwebdev/spiderwebdev/spiderwebdev/spiderwebdev/spiderwebdev/Breaking Bad.jpg" style="height:200px">
-<img src="spiderwebdev/spiderwebdev/spiderwebdev/spiderwebdev/spiderwebdev/spiderwebdev/friends.jpg" style="height:200px">
-<img src="spiderwebdev/spiderwebdev/spiderwebdev/spiderwebdev/spiderwebdev/HIMYM.jpg" style="height:200px">
-<img src="spiderwebdev/spiderwebdev/spiderwebdev/spiderwebdev/TheGoodPlace.jpg" style="height:200px">
+<img src="spiderwebdev/Breaking Bad.jpg" style="height:200px">
+<img src="spiderwebdev/friends.jpg" style="height:200px">
+<img src="spiderwebdev/HIMYM.jpg" style="height:200px">
+<img src="spiderwebdev/TheGoodPlace.jpg" style="height:200px">
 <li>Playing Video Games</li><br>
-<img src="spiderwebdev/spiderwebdev/spiderwebdev/GTA5.jpg" style="height:400px">
-<img src="spiderwebdev/spiderwebdev/WatchDogs2.jpg" style="height:400px">
+<img src="spiderwebdev/GTA5.jpg" style="height:400px">
+<img src="spiderwebdev/WatchDogs2.jpg" style="height:400px">
 <img src="spiderwebdev/GTASA.jpg" style="height:400px">
 <h3>Contact Details</h4>
 <ul>
