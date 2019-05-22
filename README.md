@@ -27,15 +27,15 @@ studying CSE at National Institute Of Technology, Tiruchirapalli.I live in Chenn
 for my 11th and 12th standard.</p>
 <p>My hobbies include<ul>
 <li>Binge Watching TV series</li><br>
-<img src="spiderwebdev/GOT.jpg" style="height:200px">
-<img src="spiderwebdev/Breaking Bad.jpg" style="height:200px">
-<img src="spiderwebdev/friends.jpg" style="height:200px">
-<img src="spiderwebdev/HIMYM.jpg" style="height:200px">
-<img src="spiderwebdev/TheGoodPlace.jpg" style="height:200px">
+<img src="/Images/GOT.jpg" style="height:200px">
+<img src="/Images/Breaking Bad.jpg" style="height:200px">
+<img src="/Images/friends.jpg" style="height:200px">
+<img src="/images/HIMYM.jpg" style="height:200px">
+<img src="/Images/TheGoodPlace.jpg" style="height:200px">
 <li>Playing Video Games</li><br>
-<img src="spiderwebdev/GTA5.jpg" style="height:400px">
-<img src="spiderwebdev/WatchDogs2.jpg" style="height:400px">
-<img src="spiderwebdev/GTASA.jpg" style="height:400px">
+<img src="/Images/GTA5.jpg" style="height:400px">
+<img src="/Images/WatchDogs2.jpg" style="height:400px">
+<img src="/Images/GTASA.jpg" style="height:400px">
 <h3>Contact Details</h4>
 <ul>
 <li>Mobile number : 7338749375</li>
