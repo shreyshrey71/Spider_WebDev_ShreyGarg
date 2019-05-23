@@ -39,7 +39,7 @@ for my 11th and 12th standard.</p>
 <ul>
 <li>Mobile number : 7338749375</li>
 <li>Email : shreyshrey71@yhoo.in</li>
-<li>Facebook : <a href="https://www.facebook.com/shrey.garg.399" style="margin:10px"><b>Shrey Garg</b></a></li>
+<li><a href="https://www.facebook.com/shrey.garg.399" style="margin:10px"><b>Facebook</b></a></li>
 </ul>
 </body>
 </html>
