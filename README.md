@@ -18,7 +18,7 @@ a:hover, a:active {
 </TITLE>
 </HEAD>
 <BODY style="background-color:#212121;color:#ffffff">
-<h1 style="background-color:#ffa000;color:#000000;font-size:500%;font-family:Arial, Helvetica, sans-serif;text-align:center;padding=100px"><strong><b><i>ABOUT MYSELF</i></b></strong></h1>
+<h1 style="background-color:#ffa000;color:#000000;font-size:500%;font-family:Arial;text-align:center;padding=100px"><strong><b><i>ABOUT MYSELF</i></b></strong></h1>
 
 <p>
 My name is Shrey Garg. I was born in New Delhi, India. I am currently
